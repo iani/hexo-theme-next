@@ -2,6 +2,12 @@
 
 > 精于心，简于形
 
+This is my favorite theme for hexo as of  6 Jun 2017 11:11.
+
+I use it for https://iani.github.io/sc-hacks/
+
+Hardly any tweaks were necessary, as the theme contains no extra footer content etc.
+
 <a href="http://notes.iissnan.com" target="_blank">在线预览 Preview</a> | <a href="http://theme-next.iissnan.com" target="_blank">NexT 使用文档</a> |  [English Documentation](README.en.md)
 
 [![Join the chat at https://gitter.im/iissnan/hexo-theme-next](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iissnan/hexo-theme-next?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
