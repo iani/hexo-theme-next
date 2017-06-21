@@ -108,7 +108,7 @@ font:
   # Fallback to `global` font settings.
   headings:
     external: true
-    family:
+    family: Arvo # Cabin # 'Roboto Slab' # Oswald
 
   # Font settings for posts
   # Fallback to `global` font settings.
