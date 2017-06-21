@@ -17,7 +17,7 @@ rss:
 #since: 2015
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: diamond
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -79,9 +79,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Muse
+# scheme: Muse
 scheme: Mist
-#scheme: Pisces
+# scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -102,7 +102,7 @@ font:
   global:
     # external: true will load this font family from host.
     external: true
-    family: Lato
+    family: 'Source Sans Pro' # Lato
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
@@ -164,7 +164,6 @@ social_icons:
 # in site  directory(source/uploads): /uploads/avatar.jpg
 #avatar:
 
-
 # Table Of Contents in the Sidebar
 toc:
   enable: true
@@ -185,16 +184,16 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  #position: right
+  # position: left  # NOTE 21 Jun 2017 18:48: Has no effect?
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: post
-  #display: always
+  # display: post
+  display: always
   #display: hide
   #display: remove
 
@@ -206,7 +205,7 @@ sidebar:
   b2t: false
 
   # Scroll percent label in b2t button
-  scrollpercent: false
+  scrollpercent: true
 
 
 # Blog rolls
@@ -214,7 +213,7 @@ sidebar:
 #links_layout: block
 #links_layout: inline
 #links:
-  #Title: http://example.com/
+#Title: http://example.com/
 
 
 # ---------------------------------------------------------------
