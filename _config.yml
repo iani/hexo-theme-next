@@ -102,13 +102,15 @@ font:
   global:
     # external: true will load this font family from host.
     external: true
-    family: 'Source Sans Pro' # Lato
+    family: Roboto # 'Source Sans Pro' # Lato
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
   headings:
     external: true
-    family: Arvo # Cabin # 'Roboto Slab' # Oswald
+    family: Raleway # 'Josefin Sans' # Montserrat
+      # 'Abril Fatface' # Arvo
+    # 'Josefin Slab' # Arvo # Cabin # 'Roboto Slab' # Oswald
 
   # Font settings for posts
   # Fallback to `global` font settings.
@@ -193,7 +195,7 @@ sidebar:
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
   # display: post
-  display: always
+  display: post
   #display: hide
   #display: remove
 
